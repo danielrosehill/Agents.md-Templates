@@ -1,5 +1,7 @@
 # Agents.md Templates
 
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?logo=openai&logoColor=white)](https://openai.com)
+
 This repository contains a collection of `AGENTS.md` templates following the standard suggested by OpenAI for providing rules and context to AI agent codecs. These templates serve as a foundational seeding system for new repositories.
 
 ## Purpose
@@ -22,3 +24,7 @@ The goal of this repository is to:
 Each template directory contains:
 - `AGENTS.md` - The main agent rules and context file
 - Any additional supporting files specific to that project type
+
+## Codex CLI
+
+- Project: https://github.com/openai/codex
